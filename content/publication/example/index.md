@@ -1,5 +1,5 @@
 ---
-title: "Land Cocentration and Rural Labor Markets: Theory and Evidencee from Colombia"
+title: "Land Concentration and Rural Labor Markets: Theory and Evidence from Colombia"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
