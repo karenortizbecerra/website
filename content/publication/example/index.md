@@ -38,7 +38,7 @@ summary: We approach attrition in field experiments with baseline data as an ide
 
 #tags: [non-response],[treatment effects],[field experiments],[internal validity]
 
-tags
+tags:
 - non-response
 - field experiments
 - internal validity
