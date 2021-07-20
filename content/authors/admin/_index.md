@@ -20,6 +20,7 @@ bio:
 interests:
 - Development Economics
 - Applied Econometrics
+- Geographic Inequality
 - Labor Economics
 
 # Education to show in About widget
@@ -70,9 +71,12 @@ email: ""
 highlight_name: false
 ---
 
-I am a Ph.D. candidate in agricultural and resource economics at the University of California, Davis. I study the implications of agricultural development on rural economies using quantitative theory and modern causal inference techniques.
-
+I am a Ph.D. candidate in Agricultural and Resource Economics at the University of California, Davis. My research interests include development economics and applied econometrics.  I study the implications of agricultural development and policy programs on rural economies using quantitative theory and modern causal inference techniques.
 I also conduct research on empirical methods with a special focus on field experiments and causal inference.
+
+Prior to graduate school, I was a research analyst at The World Bank and The Inter-American Development Bank in Washington D.C.
+
+I am in the 2021-2022 job market and will be available for interviews at the 2021 European Job Market and the 2022 ASSA Virtual Meetings.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}job market paper{{< /staticref >}}.
