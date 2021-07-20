@@ -1,12 +1,10 @@
 ---
-title: "Testing Attrition Bias in Field Experiments"
+title: "Land Cocentration and Rural Labor Markets: Theory and Evidencee from Colombia"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Dalia Ghanem
-- Sarojini Hirshleifer
 - admin
 
 
@@ -34,13 +32,13 @@ publication_types: []
 abstract: "We approach attrition in field experiments with baseline data as an identification problem in a panel model. A systematic review of the literature indicates that there is no consensus on how to test for attrition bias. We establish identifying assumptions for treatment effects for both the respondent subpopulation and the study population. We propose randomization and regression-based procedures to test their sharp implications. We then relate our proposed tests to current empirical practice, and demonstrate that the most commonly used test can over-reject internal validity. Simulations and applications further support the relevance of our analysis."
 
 # Summary. An optional shortened abstract.
-summary:  __Submitted__ <br />We approach attrition in field experiments with baseline data as an identification problem in a panel model. A systematic review of the literature indicates that there is no consensus on how to test for attrition bias. We establish identifying assumptions for treatment effects for both the respondent subpopulation and the study population.
+summary:  __Job_Market_Paper__ <br />We approach attrition in field experiments with baseline data as an identification problem in a panel model. A systematic review of the literature indicates that there is no consensus on how to test for attrition bias. We establish identifying assumptions for treatment effects for both the respondent subpopulation and the study population.
 
 
 tags:
-- non-response
-- field experiments
-- internal validity
+- land cocentration
+- rural development
+
 
 # Display this page in the Featured widget?
 featured: false
@@ -50,7 +48,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '/files/papers/GhanemHirshleiferOrtiz_202102.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -62,7 +60,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 
   focal_point: ""
   preview_only: false
 
@@ -83,5 +81,5 @@ image:
 ---
 
 
-__Submitted__
+__Job_Market_Paper__
 
