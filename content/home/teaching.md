@@ -12,7 +12,7 @@ title = "Teaching"
 #Add teaching statement and pdf w evaluations
 
 # Order that this section will appear in.
-weight = 60
+weight = 120
 
 +++
 
