@@ -6,6 +6,10 @@ widget = "custom"
 active = true
 date = 2020-08-09
 
+```diff
+- text in green
+```
+
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Work in Progress"
 
@@ -15,10 +19,9 @@ weight = 100
 
 +++
 
-#### Forced Displacement and Early Nutrition in Colombia
+- Forced Displacement and Early Nutrition in Colombia
 
-
-A Nonlinear Difference-in-Differences Approach to Attrition Corrections for Randomized Experiments 
+- A Nonlinear Difference-in-Differences Approach to Attrition Corrections for Randomized Experiments 
 *with Dalia Ghanem, Sarojini Hirshleifer, and Desire Kedagni*
 
 
