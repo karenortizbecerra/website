@@ -15,10 +15,10 @@ weight = 100
 
 +++
 
-# Forced Displacement and Early Nutrition in Colombia
+#### Forced Displacement and Early Nutrition in Colombia
 
 
-## A Nonlinear Difference-in-Differences Approach to Attrition Corrections for Randomized Experiments 
+#### A Nonlinear Difference-in-Differences Approach to Attrition Corrections for Randomized Experiments 
 with Dalia Ghanem, Sarojini Hirshleifer, and Desire Kedagni
 
 
