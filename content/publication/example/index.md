@@ -36,7 +36,12 @@ abstract: We approach attrition in field experiments with baseline data as an id
 # Summary. An optional shortened abstract.
 summary: We approach attrition in field experiments with baseline data as an identification problem in a panel model. A systematic review of the literature indicates that there is no consensus on how to test for attrition bias. We establish identifying assumptions for treatment effects for both the respondent subpopulation and the study population.
 
-tags: [non-response],[treatment effects],[field experiments],[internal validity]
+#tags: [non-response],[treatment effects],[field experiments],[internal validity]
+
+tags
+- non-response
+- field experiments
+- internal validity
 
 # Display this page in the Featured widget?
 featured: true
