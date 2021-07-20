@@ -20,12 +20,12 @@ weight = 60
 Development economics, econometrics, microeconomics
 
 ### Teaching Assistant:
-- Econometric Methods (PhD): x/5.0 
-- Economics of Agriculture (Masters): x/5.0
-- Development Economics (Undergraduate): x/5.0
-- Agricultural Labor (Undergraduate): x/5.0
-- Econometric Theory and Applications (Undergraduate): x/5.0
-- Intermediate Microeconomics (Undergraduate): x/5.0
+- Econometric Methods (PhD): x/5.0 [evaluations]
+- Economics of Agriculture (Masters): x/5.0 [evaluations]
+- Development Economics (Undergraduate): x/5.0 [evaluations]
+- Agricultural Labor (Undergraduate): x/5.0 [evaluations]
+- Econometric Theory and Applications (Undergraduate): x/5.0 [evaluations]
+- Intermediate Microeconomics (Undergraduate): x/5.0 [evaluations]
 
 
 
