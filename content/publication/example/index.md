@@ -32,7 +32,7 @@ publication_types: []
 abstract: "We approach attrition in field experiments with baseline data as an identification problem in a panel model. A systematic review of the literature indicates that there is no consensus on how to test for attrition bias. We establish identifying assumptions for treatment effects for both the respondent subpopulation and the study population. We propose randomization and regression-based procedures to test their sharp implications. We then relate our proposed tests to current empirical practice, and demonstrate that the most commonly used test can over-reject internal validity. Simulations and applications further support the relevance of our analysis."
 
 # Summary. An optional shortened abstract.
-summary:  __Job_Market_Paper__ <br />We approach attrition in field experiments with baseline data as an identification problem in a panel model. A systematic review of the literature indicates that there is no consensus on how to test for attrition bias. We establish identifying assumptions for treatment effects for both the respondent subpopulation and the study population.
+summary:  __Job Market Paper__ <br />We approach attrition in field experiments with baseline data as an identification problem in a panel model. A systematic review of the literature indicates that there is no consensus on how to test for attrition bias. We establish identifying assumptions for treatment effects for both the respondent subpopulation and the study population.
 
 
 tags:
@@ -81,5 +81,5 @@ image:
 ---
 
 
-__Job_Market_Paper__
+__Job Market Paper__
 
