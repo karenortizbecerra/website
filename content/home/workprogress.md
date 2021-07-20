@@ -15,10 +15,11 @@ weight = 100
 
 +++
 
-### A Nonlinear Difference-in-Differences Approach to Attrition Corrections for Randomized Experiments 
-Instructor of record: Fall 2019
-authors:
--admin
+# Forced Displacement and Early Nutrition in Colombia
 
-### MTH 101: Basic Statiscis 
-TA: Fall 2018, 2017, 2016 
+
+## A Nonlinear Difference-in-Differences Approach to Attrition Corrections for Randomized Experiments 
+with Dalia Ghanem, Sarojini Hirshleifer, and Desire Kedagni
+
+
+
