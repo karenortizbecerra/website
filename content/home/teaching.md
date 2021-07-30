@@ -17,7 +17,7 @@ weight = 120
 +++
 
 ### Teaching Interests: 
-Development economics, Econometrics, Agricultural labor, Microeconomics
+Development Economics, Econometrics, Agricultural Labor, Microeconomics
 
 ### Teaching Assistant:
 - Econometric Methods (PhD): x/5.0 [evaluations]
