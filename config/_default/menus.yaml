@@ -9,9 +9,9 @@ main:
     weight: 10
     
   - name: Research
-    url: "research/"
-    #url: '#research'
+    url: research/
     weight: 20
+     #url: '#research'
     
   #- name: Projects
   #  url: '#projects'
