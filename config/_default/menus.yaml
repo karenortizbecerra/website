@@ -9,7 +9,7 @@ main:
     weight: 10
     
   - name: Research
-    url: 'publications/'
+    url: publication/
     #url: '#research'
     weight: 20
     
