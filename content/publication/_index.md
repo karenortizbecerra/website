@@ -3,7 +3,6 @@ title: Research
 type: page
 #cms_exclude: true
 
-design:
 # View.
 #   1 = List
 #   2 = Compact
