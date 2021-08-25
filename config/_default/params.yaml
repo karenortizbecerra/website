@@ -134,7 +134,7 @@ comments:
   commento:
     url: ''
 search:
-  provider: 
+  provider: ''
   algolia:
     app_id: ''
     api_key: ''
