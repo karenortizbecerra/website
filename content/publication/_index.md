@@ -1,5 +1,5 @@
 +++
-title = "Publications"
+title = ""
 date = "2017-01-01T00:00:00Z"
 math = false
 highlight = false
@@ -12,9 +12,9 @@ highlight = false
 list_format = 3
 
 # Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
+#[header]
+#image = ""
+#caption = ""
 +++
 
 
