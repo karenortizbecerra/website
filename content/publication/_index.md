@@ -1,6 +1,6 @@
 ---
-#title: Research
-#type: page
+title: Research
+type: page
 #cms_exclude: true
 
 design:
