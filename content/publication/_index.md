@@ -1,5 +1,6 @@
 ---
 title: Research
+type: page
 cms_exclude: true
 
 # View.
