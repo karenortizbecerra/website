@@ -1,10 +1,12 @@
 ---
+title: Courses
+type: page
+
+view: 2
 
 header:
   caption: ""
   image: ""
-title: Research
 ---
 
-
-Hola!
+I teach the following courses:
