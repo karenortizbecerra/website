@@ -3,33 +3,19 @@
 #type: page
 #cms_exclude: true
 
+design:
 # View.
 #   1 = List
 #   2 = Compact
 #   3 = Card
-#view: 2
+view: 2
 
 # Optional header image (relative to `static/media/` folder).
 #header:
 #caption: ""
 #image: ""
 
----
 
----
-# An instance of the Pages widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
-
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 70
-
-title: 'Working Papers'
-subtitle:
 
 content:
   # Page type to display. E.g. post, event, publication...
