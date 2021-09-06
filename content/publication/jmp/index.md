@@ -1,5 +1,6 @@
 ---
 title: "Land Concentration and Rural Labor Markets: Theory and Evidence from Colombia"
+subtitle: _New Working Paper Coming Soon_
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -28,6 +29,7 @@ publication_types: []
 # Publication name and optional abbreviated publication name.
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
+
 
 abstract: "I study the effect of the concentration of land in large farms on rural labor markets in Colombia. Land concentration can affect the equilibrium wage through changes in the demand for farm and nonfarm labor. To understand the interaction of these demand effects, I develop a general equilibrium model of rural economies based on four empirical facts that relate the scale of agrarian operation with the demand for workers in each sector. The theoretical results indicate that the overall effect on the structure of rural employment and the wage is ambiguous, as it depends on three main competing effects. To estimate the overall effect, I construct an instrumental variable based on the differential exposure of rural municipalities to a demand shock that increased the area used in land-intensive crops during the 1990s. The results suggest that large scale concentration prompted the movement of labor out of agriculture and increased unemployment rates. In light of the model, these findings are consistent with a situation in which the change in nonfarm labor demand was not large enough to offset the decrease in the demand for farm workers."
 
@@ -83,4 +85,6 @@ image:
 
 
 __Job Market Paper__
+
+_New Working Paper Coming Soon_
 
