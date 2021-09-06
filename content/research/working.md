@@ -11,10 +11,10 @@ weight: 1
 
 # Section title
 title: WORKING PAPERS
-subtitle: Links to Draft & Project Description
+
 
 # Section subtitle
-subtitle:
+subtitle: Links to Project Descriptions
 
 content:
   # Page type to display. E.g. post, event, publication...

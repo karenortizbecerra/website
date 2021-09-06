@@ -12,7 +12,7 @@ headless: true
 weight: 70
 
 title: 'Working Papers'
-subtitle:
+subtitle: 'Links to Project Descriptions'
 
 content:
   # Page type to display. E.g. post, event, publication...
