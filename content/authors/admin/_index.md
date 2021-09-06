@@ -19,8 +19,8 @@ bio:
 # Interests to show in About widget
 interests:
 - Development Economics
-- Applied Econometrics
 - Geographic Inequality
+- Applied Econometrics
 - Labor Economics
 
 # Education to show in About widget

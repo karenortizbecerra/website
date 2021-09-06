@@ -1,17 +1,19 @@
 ---
-# An instance of the Pages widget.
+# An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-active: false
-
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 1
 
-title: 'Working Papers'
+# Section title
+title: WORKING PAPERS
+subtitle: Links to Draft & Project Description
+
+# Section subtitle
 subtitle:
 
 content:
@@ -35,6 +37,7 @@ content:
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 
+# Section design
 design:
   # Choose a view for the listings:
   #   1 = List
@@ -43,3 +46,4 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+
