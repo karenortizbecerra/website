@@ -71,8 +71,9 @@ email: ""
 highlight_name: false
 ---
 
-I am a Ph.D. candidate in Agricultural and Resource Economics at the University of California, Davis. My research interests include development economics and applied econometrics.  I study the implications of agricultural development and policy programs on rural economies using quantitative theory and modern causal inference techniques.
-I also conduct research on empirical methods with a special focus on field experiments and causal inference.
+I am an applied economist working in the fields of development economics, labor economics, and applied econometrics. 
+
+I study the implications of agricultural development, conflict, and policy programs on local economies using quantitative theory and modern causal inference techniques. I also conduct research on empirical methods with a special focus on field experiments and causal inference.
 
 Prior to graduate school, I was a research analyst at The World Bank and The Inter-American Development Bank in Washington D.C.
 

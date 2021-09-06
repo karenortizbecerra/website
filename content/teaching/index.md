@@ -15,13 +15,15 @@ weight: 1
 
 ---
 
-### Teaching Interests: 
-Development Economics, Econometrics, Labor, Microeconomics
+I have taught multiple undergraduate and graduate courses in economics in a teaching assistant capacity. All teaching evaluations are available upon request.
 
-### Teaching Assistant:
-- Econometric Methods (PhD): x/5.0 [evaluations]
-- Economics of Agriculture (Masters): x/5.0 [evaluations]
-- Development Economics (Undergraduate): x/5.0 [evaluations]
-- Agricultural Labor (Undergraduate): x/5.0 [evaluations]
-- Econometric Theory and Applications (Undergraduate): x/5.0 [evaluations]
-- Intermediate Microeconomics (Undergraduate): x/5.0 [evaluations]
+### Graduate Courses:
+- **ARE 240B:** Econometric Methods (Spring 2019)
+- **ARE 223:** Economics of Agriculture (Fall 2017)
+
+### Undergraduate Courses:
+- **ARE/ECN115A:** Development Economics (Winter 2019, Winter 2021)
+- **ARE 150:** Agricultural Labor (Spring 2017)
+- **ARE 107:** Econometrics for Business Decisions (Spring 2021)
+- **ARE 106:** Econometric Theory and Applications (Fall 2018 , Fall 2020)
+- **ARE 100B:** Intermediate Microeconomics (Winter 2017, Summer 2018)
