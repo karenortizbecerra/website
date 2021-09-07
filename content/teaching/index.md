@@ -22,7 +22,7 @@ I have taught multiple undergraduate and graduate courses in economics in a teac
 - **ARE 223:** Economics of Agriculture (Fall 2017)
 
 ### Undergraduate Courses:
-- **ARE/ECN115A:** Development Economics (Winter 2019, Winter 2021)
+- **ARE/ECN 115A:** Development Economics (Winter 2019, Winter 2021)
 - **ARE 150:** Agricultural Labor (Spring 2017)
 - **ARE 107:** Econometrics for Business Decisions (Spring 2021)
 - **ARE 106:** Econometric Theory and Applications (Fall 2018 , Fall 2020)

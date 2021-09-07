@@ -16,16 +16,25 @@ title: WORK IN PROGRESS
 weight: 10
 
 # Section design
-design:
+#design:
   # Use a 1-column layout
-  columns: "1"
+ # columns: "1"
+
+# Section design
+design:
+  # Choose a view for the listings:
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view: 2 
 
 ---
 
-- Forced Displacement and Early Nutrition in Colombia
+- "Forced Displacement and Early Nutritional Development"
 
-- The Economic Impacts of Medical Drone Delivery *with Oscar Barriga-Cabanillas and Aleksander Michuda*
+- "The Economic Impacts of Medical Drone Delivery" *with Oscar Barriga-Cabanillas and Aleksander Michuda*
 
-- Industries, Employment, and Clientelism in Local Economies
+- "Industries, Employment, and Clientelism in Local Economies"
 
-- A Nonlinear Difference-in-Differences Approach to Attrition Corrections in Randomized Experiments *with Dalia Ghanem, Sarojini Hirshleifer, and Desire Kedagni*
+- "A Nonlinear Difference-in-Differences Approach to Attrition Corrections in Randomized Experiments" *with Dalia Ghanem, Sarojini Hirshleifer, and Desire Kedagni*
