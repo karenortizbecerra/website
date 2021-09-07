@@ -30,11 +30,10 @@ design:
   view: 2 
 
 ---
-
-- "Forced Displacement and Early Nutritional Development"
+- "Industries, Employment, and Clientelism in Local Economies"
 
 - "The Economic Impacts of Medical Drone Delivery" *with Oscar Barriga-Cabanillas and Aleksander Michuda*
 
-- "Industries, Employment, and Clientelism in Local Economies"
+- "Forced Displacement and Early Nutritional Development"
 
 - "A Nonlinear Difference-in-Differences Approach to Attrition Corrections in Randomized Experiments" *with Dalia Ghanem, Sarojini Hirshleifer, and Desire Kedagni*
