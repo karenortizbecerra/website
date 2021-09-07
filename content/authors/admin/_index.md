@@ -78,4 +78,6 @@ Prior to graduate school, I was a research analyst at The World Bank and The Int
 I am in the 2021-2022 job market and will be available for interviews at the 2021 European Job Market and the 2022 ASSA Meetings.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/papers/KarenOrtizBecerra_CV.pdf" "newtab" >}}CV{{< /staticref >}} and {{< staticref "uploads/demo_resume.pdf" "newtab" >}}job market paper{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/papers/KarenOrtizBecerra_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+
+[//]: # "and {{< staticref "uploads/demo_resume.pdf" "newtab" >}}job market paper{{< /staticref >}}."
