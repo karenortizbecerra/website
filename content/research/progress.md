@@ -27,13 +27,15 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2 
+  view: 1 
 
 ---
-- "Industries, Employment, and Clientelism in Local Economies"
+**Development Economics**
+- "Forced Displacement and Early Nutritional Development"
 
 - "The Economic Impacts of Medical Drone Delivery" *with Oscar Barriga-Cabanillas and Aleksander Michuda*
 
-- "Forced Displacement and Early Nutritional Development"
+- "Industries, Employment, and Clientelism in Local Economies"
 
-- "A Nonlinear Difference-in-Differences Approach to Attrition Corrections in Randomized Experiments" *with Dalia Ghanem, Sarojini Hirshleifer, and Desire Kedagni*
+**Applied Econometrics**
+- "Correcting Attrition Bias via Changes-in-Changes" *with Dalia Ghanem, Sarojini Hirshleifer, and Desire Kedagni*
