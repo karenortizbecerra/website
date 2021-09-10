@@ -26,9 +26,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Agricultural and Resource Economics 
+  - course: PhD Agricultural and Resource Economics 
     institution: University of California, Davis
-    year: 2022*
+    year: 2022
   - course: MSc in Economics
     institution: Universidad de Los Andes, Colombia
     year: 2012

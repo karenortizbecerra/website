@@ -15,7 +15,7 @@ weight: 1
 
 ---
 
-I have taught the following graduate and undergraduate courses in economics in a teaching assistant capacity. In my teaching, I use real-world examples to reinforce the intuition and relevance of the concepts and methods covered in the course. I also use in-class discussions to encourage students to i) think critically about the advantages and limitations of different economic analyses and ii) communicate the implications of their results in a clear and effective manner. All teaching evaluations are available upon request.
+In my teaching, I use real-world examples to reinforce the relevance and intuition of the concepts and methods covered in the course. I also use in-class discussions to encourage students to i) think critically about the advantages and limitations of different economic analyzes and ii) effectively communicate the implications of their results. Here is a list of the courses I have taught in a * teaching assistant * capacity. All teaching evaluations are available upon request.
 
 ### Graduate Courses:
 - **ARE 240B:** Econometric Methods (Spring 2019)
