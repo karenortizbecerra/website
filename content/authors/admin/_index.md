@@ -71,7 +71,7 @@ email: ""
 highlight_name: false
 ---
 
-I am an applied economist working in the fields of development economics, labor economics, and applied econometrics. I study the implications of agricultural development and policy programs for local economies using quantitative theory and modern causal inference methods. In a second line of work, I examine questions related to the econometrics of field experiments. In particular, I study the relationship between attrition and causal inference.
+I am an applied economist working in the fields of development economics, labor economics, and applied econometrics. I use theory and quantitative methods to study the implications of agricultural development and policy programs on aggregate welfare in local economies. In a second line of work, I examine questions related to the econometrics of impact evaluation. In particular, the relationship between attrition and internal validity. 
 
 Prior to graduate school, I was a research analyst at The World Bank and The Inter-American Development Bank in Washington D.C.
 

@@ -33,7 +33,7 @@ design:
 
 __Forced Displacement and Early Nutritional Development__ <br />
 _Status: Data Analysis_<br />
-Forced displacement is one of the main development challenges in developing countries. Of the 82.4 million forcibly displaced people worldwide,  86\%  are hosted in low and middle-income countries (UNHCR, 2020). The goal of this paper is to estimate the impact of internal displacement on early nutrition and health. Using a rich dataset of households displaced during the conflict in Colombia, I compare siblings born before and after the forced migration took place. This analysis will shed light on the effects of forced migration on the accumulation of human capital and, thereby, This analysis will shed light on the effects of forced migration on the accumulation of human capital and, thereby, implications for displaced children's public policies. 
+Forced displacement is one of the main development challenges in developing countries. Of the 82.4 million forcibly displaced people worldwide,  86\%  are hosted in low and middle-income countries (UNHCR, 2020). The goal of this paper is to estimate the impact of internal displacement on early nutrition and health. Using a rich dataset of households displaced during the conflict in Colombia, I compare siblings born before and after the forced migration took place. This analysis will shed light on the effects of forced migration on the accumulation of human capital and its implications for public policies targeted at displaced children. 
 
 __The Economic Impacts of Medical Drone Delivery__ (with Oscar Barriga-Cabanillas and Aleksander Michuda) <br />
 _Status: Data Agreement in Progress_ <br />
