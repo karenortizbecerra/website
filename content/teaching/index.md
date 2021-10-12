@@ -15,7 +15,9 @@ weight: 1
 
 ---
 
-In my teaching, I use real-world examples to reinforce the intuition and relevance of the material covered in the course. I also use in-class discussions to encourage students to i) think critically about the limitations of different economic analyses and ii) communicate the implications of their results in a clear way. Here is a list of the courses I have taught in a *teaching assistant* capacity. My average overall score across all undergraduate and graduate classes are 4.5/5 and 4.8/5, respectively. All teaching evaluations are available upon request.
+In my teaching, I use real-world examples to reinforce the intuition and relevance of the material covered in the course. I also use in-class discussions to encourage students to i) think critically about the limitations of different economic analyses and ii) communicate the implications of their results in a clear way. 
+
+Here is a list of the courses I have taught in a *teaching assistant* capacity. My average overall score across all undergraduate and graduate classes are 4.5/5 and 4.8/5, respectively. All teaching evaluations are available upon request.
 
 ### Graduate Courses:
 - **ARE 240B:** Econometric Methods (Spring 2019)
