@@ -14,10 +14,9 @@ title: Teaching
 weight: 1
 
 ---
+In my teaching, I focus on developing skills that help students apply the knowledge acquired in the course. I believe this approach is crucial for students to be engaged with their learning process and succeed beyond the classroom. 
 
-In my teaching, I use real-world examples to reinforce the intuition and relevance of the material covered in the course. I also use in-class discussions to encourage students to i) think critically about the limitations of different economic analyses and ii) communicate the implications of their results in a clear way. 
-
-Below you can find a list of the courses I have taught in a *teaching assistant* capacity. My average teaching score across all undergraduate and graduate classes are 4.5/5 and 4.8/5, respectively. All teaching evaluations are available upon request.
+Below you can find a list of the courses I have taught in a *teaching assistant* capacity. My average teaching score across all graduate and undergraduate classes are 4.8/5 and 4.5/5, respectively. All teaching evaluations are available upon request.
 
 ### Graduate Courses:
 - **ARE 240B:** Econometric Methods (Spring 2019)

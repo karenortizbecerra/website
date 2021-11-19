@@ -31,10 +31,18 @@ publication_types: []
 #publication_short: In *ICW*
 
 
-abstract: "The consolidation of land in large farms is accelerating in many developing countries. This paper studies the implications of this consolidation on rural employment and workers' welfare. I develop a general equilibrium model of local labor markets that considers both farm and nonfarm labor. Large-farm consolidation affects the demand for farm labor via labor intensity and the nonfarm labor demand through non-homothetic consumption growth.  The model shows that consolidation may reduce workers' welfare if the pull response in the nonfarm sector is small relative to the shift in farm labor demand. Using quasi-experimental variation and a novel dataset from Colombia, I find that large-farm consolidation decreased the share of agricultural labor and led to a fourteen percentage point increase in the unemployment rate. These findings shed light on the distributional impacts of consolidation across different groups of society and the spatial implications of the reallocation of labor out of the agricultural sector."
+abstract: "The consolidation of land in large farms is accelerating in many developing countries. This paper studies the implications of land consolidation on rural employment
+and workers’ welfare. I develop a general equilibrium model of local labor markets
+that considers both farm and nonfarm labor. Large-farm consolidation affects the
+demand for farm labor via labor intensity and the nonfarm labor demand through
+non-homothetic consumption growth. The model shows that consolidation may reduce workers’ income if the pull response in the nonfarm sector is small relative to the shift in farm labor demand. I examine this question in the Colombian setting by assembling a novel dataset and leveraging quasi-experimental variation in the ability
+of rural counties to respond to a trade shock that changed land use. Regions with an
+increase in large-farm consolidation experienced a decline in the share of agricultural
+labor and a sizeable increase in unemployment rates. These findings shed light on the
+distributional impacts of consolidation across individuals and the potential implications of structural transformation within rural economies."
 
 # Summary. An optional shortened abstract.
-summary:  __Job Market Paper__ _New Draft Coming Soon_ <br />I study the implications of land consolidation on employment and workers' welfare in rural economies. Theoretical and empirical results suggest that, under certain conditions, consolidation might lead to a shift of labor out of agriculture along with a reduction in workers' welfare.
+summary:  __Job Market Paper__ _New Draft Coming Soon_ <br />I study the implications of land consolidation on employment and workers' welfare in rural economies. Theoretical and empirical results suggest that consolidation might lead to a shift of labor out of agriculture along with a reduction in workers' welfare.
 
 
 

@@ -19,9 +19,9 @@ bio:
 # Interests to show in About widget
 interests:
 - Development Economics
-- Geographic Inequality
 - Applied Econometrics
 - Labor Economics
+- Political Economy
 
 # Education to show in About widget
 education:
@@ -55,7 +55,7 @@ social:
   link: https://github.com/karenortizbecerra
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/karen-del-mar-ortiz-becerra-09071239/
+  link: https://www.linkedin.com/in/karen-ortiz-becerra-09071239/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -71,9 +71,9 @@ email: ""
 highlight_name: false
 ---
 
-I am an applied economist working in the fields of development economics, labor economics, and applied econometrics. I use theory and quantitative methods to study the implications of agricultural development and policy programs on aggregate welfare in local economies. In a second line of work, I examine questions related to the econometrics of impact evaluation. In particular, the relationship between attrition and internal validity. 
+I am an applied economist working in the fields of development economics and applied econometrics. I use theory and quantitative methods to study the implications of agricultural development and policy programs on aggregate welfare in local economies. In a second line of work, I examine questions related to the econometrics of impact evaluation with a special focus on attrition and internal validity. 
 
-Prior to graduate school, I was a research analyst at The World Bank and The Inter-American Development Bank in Washington D.C.
+Prior to my doctoral studies, I was a research analyst at The World Bank and The Inter-American Development Bank in Washington D.C.
 
 I am in the 2021-2022 job market and will be available for interviews at the 2021 European Job Market and the 2022 ASSA Meetings.
 
