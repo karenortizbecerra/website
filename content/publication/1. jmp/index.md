@@ -1,6 +1,6 @@
 ---
 title: "Land Consolidation and Rural Labor Markets: Theory and Evidence from Colombia"
-subtitle: _New Draft Coming Soon_
+
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -95,5 +95,4 @@ image:
 
 __Job Market Paper__
 
-_New Draft Coming Soon_
 

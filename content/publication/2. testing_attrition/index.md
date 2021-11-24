@@ -52,7 +52,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: '/files/papers/GhanemHirshleiferOrtiz_202102.pdf'
-url_stata_package: 'https://github.com/daghanem/ATTRITIONTESTS'
+url_code: 'https://github.com/daghanem/ATTRITIONTESTS'
 url_dataset: ''
 url_poster: ''
 url_project: ''
