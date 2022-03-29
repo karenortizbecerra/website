@@ -1,5 +1,5 @@
 ---
-title: "Testing Attrition Bias in Field Experiments"
+title: "Correcting Attrition Bias via Changes-in-Changes"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -7,6 +7,7 @@ title: "Testing Attrition Bias in Field Experiments"
 authors:
 - Dalia Ghanem
 - Sarojini Hirshleifer
+- Désiré Kédagni
 - admin
 
 
@@ -15,7 +16,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2021-07-01T00:00:00Z"
+date: "2021-07-03T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -31,15 +32,15 @@ publication_types: []
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
 
-abstract: "We approach attrition in field experiments with baseline data as an identification problem in a panel model. A systematic review of the literature indicates that there is no consensus on how to test for attrition bias. We establish identifying assumptions for treatment effects for both the respondent subpopulation and the study population. We propose randomization and regression-based procedures to test their sharp implications. We then relate our proposed tests to current empirical practice, and demonstrate that the most commonly used test can over-reject internal validity. Simulations and applications further support the relevance of our analysis."
+abstract: "Attrition is a common and potentially important threat to internal validity in treatment effect studies.  We extend the changes-in-changes approach to identify the average treatment effect for respondents and the entire study population in the presence of attrition.  Our method can be applied in randomized experiments as well as difference-in-difference designs.  A simulation experiment points to the advantages of this approach relative to one of the most commonly used approaches in the literature, inverse probability weighting.  The application of our proposed corrections is illustrated using an outcome from a large-scale randomized experiment."
 
 # Summary. An optional shortened abstract.
-summary:  __Revise and Resubmit:__ _Journal of Human Resources._ <br />We approach attrition in field experiments with baseline data as an identification problem in a panel model. A systematic review of the literature indicates that there is no consensus on how to test for attrition bias. We establish identifying assumptions for treatment effects for both the respondent subpopulation and the study population.
+summary:  __Draft Available Upon Request__. <br />Attrition is an important threat to internal validity in treatment effect studies.  We extend the changes-in-changes approach to identify the treatment effect in the presence of attrition.  Our method can be applied in randomized experiments as well as difference-in-difference designs.
+
 
 
 tags:
 - non-response
-- field experiments
 - internal validity
 
 # Display this page in the Featured widget?
@@ -50,7 +51,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '/files/papers/GhanemHirshleiferOrtiz_202102.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -58,6 +59,7 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -83,6 +85,6 @@ image:
 ---
 
 
-__Revise and Resubmit:__ _Journal of Human Resources._
+__Draft Available Upon Request__
 
 
