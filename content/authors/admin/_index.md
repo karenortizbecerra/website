@@ -75,7 +75,7 @@ I am an applied economist working in the fields of development economics and app
 
 Prior to my doctoral studies, I was a research analyst at The World Bank and The Inter-American Development Bank in Washington D.C.
 
-I am in the 2021-2022 job market and will be available for interviews at the 2021 European Job Market and the 2022 ASSA Meetings.
+I will be joining the Economics Department at the University of San Diego as an Assistant Professor in August 2022.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/papers/KarenOrtizBecerra_CV.pdf" "newtab" >}}CV{{< /staticref >}}.

@@ -32,15 +32,21 @@ publication_types: []
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
 
-abstract: "Attrition is a common and potentially important threat to internal validity in treatment effect studies.  We extend the changes-in-changes approach to identify the average treatment effect for respondents and the entire study population in the presence of attrition.  Our method can be applied in randomized experiments as well as difference-in-difference designs.  A simulation experiment points to the advantages of this approach relative to one of the most commonly used approaches in the literature, inverse probability weighting.  The application of our proposed corrections is illustrated using an outcome from a large-scale randomized experiment."
+abstract: "Attrition is a common and potentially important threat to internal validity in treatment effect
+studies. We extend the changes-in-changes approach to identify the average treatment effect for
+respondents and the entire study population in the presence of attrition. Our method can be applied
+to randomized experiments as well as difference-in-difference designs. A simulation experiment
+points to the advantages of this approach relative to one of the most commonly used approaches
+in the literature, inverse probability weighting. Those advantages are further illustrated with an
+application to a large-scale randomized experiment."
 
 # Summary. An optional shortened abstract.
-summary:  __Draft Available Upon Request__. <br />Attrition is an important threat to internal validity in treatment effect studies.  We extend the changes-in-changes approach to identify the treatment effect in the presence of attrition.  Our method can be applied in randomized experiments as well as difference-in-difference designs.
+summary:  __Submitted__. <br />Attrition is an important threat to internal validity in treatment effect studies.  We extend the changes-in-changes approach to identify the treatment effect in the presence of attrition.  Our method can be applied in randomized experiments as well as difference-in-difference designs.
 
 
 
 tags:
-- non-response
+- non-response 
 - internal validity
 
 # Display this page in the Featured widget?
@@ -51,7 +57,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arefiles.ucdavis.edu/uploads/pub/2022/03/26/att_nondid.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -85,6 +91,6 @@ image:
 ---
 
 
-__Draft Available Upon Request__
+__Submitted.__
 
 
