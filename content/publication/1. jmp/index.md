@@ -42,7 +42,7 @@ labor and a sizeable increase in unemployment rates. These findings shed light o
 distributional impacts of consolidation across individuals and the potential implications of structural transformation within rural economies."
 
 # Summary. An optional shortened abstract.
-summary:  __Job Market Paper__ <br />I study the implications of land consolidation on employment and workers' welfare in rural economies. Theoretical and empirical results suggest that consolidation might lead to a shift of labor out of agriculture along with a reduction in workers' welfare.
+summary:  __Job Market Paper__ _(New Draft Coming Soon)._ <br />I study the implications of land consolidation on employment and workers' welfare in rural economies. Theoretical and empirical results suggest that consolidation might lead to a shift of labor out of agriculture along with a reduction in workers' welfare.
 
 
 
@@ -60,7 +60,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: '/files/papers/KarenOrtizBecerra_JMP.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
