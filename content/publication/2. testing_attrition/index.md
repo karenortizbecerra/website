@@ -51,7 +51,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '/files/papers/GhanemHirshleiferOrtiz_202102.pdf'
+url_pdf: 'https://escholarship.org/uc/item/4ck087v3'
 url_code: 'https://github.com/daghanem/ATTRITIONTESTS'
 url_dataset: ''
 url_poster: ''

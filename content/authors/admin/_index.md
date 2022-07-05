@@ -6,7 +6,7 @@ title: Karen Ortiz-Becerra
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Agricultural and Resource Economics
+role: PhD in Agricultural and Resource Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:

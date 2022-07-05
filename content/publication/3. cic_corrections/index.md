@@ -41,7 +41,7 @@ in the literature, inverse probability weighting. Those advantages are further i
 application to a large-scale randomized experiment."
 
 # Summary. An optional shortened abstract.
-summary:  __Submitted__. <br />Attrition is an important threat to internal validity in treatment effect studies.  We extend the changes-in-changes approach to identify the treatment effect in the presence of attrition.  Our method can be applied in randomized experiments as well as difference-in-difference designs.
+summary: __Revise and Resubmit:__ _Journal of Econometrics._  <br />Attrition is an important threat to internal validity in treatment effect studies.  We extend the changes-in-changes approach to identify the treatment effect in the presence of attrition.  Our method can be applied in randomized experiments as well as difference-in-difference designs.
 
 
 
@@ -57,7 +57,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arefiles.ucdavis.edu/uploads/pub/2022/03/26/att_nondid.pdf'
+url_pdf: 'https://arxiv.org/abs/2203.12740'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -91,6 +91,6 @@ image:
 ---
 
 
-__Submitted.__
+__Revise and Resubmit:__ _Journal of Econometrics._
 
 

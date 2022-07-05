@@ -60,7 +60,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '/files/papers/KarenOrtizBecerra_JMP.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -93,6 +93,6 @@ image:
 ---
 
 
-__Job Market Paper__
+__Job Market Paper__ _(New Draft Coming Soon)_
 
 
