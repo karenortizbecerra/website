@@ -11,7 +11,7 @@ role: Assistant Professor of Economics
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of San Diego
-  url: sandiego.edu/business
+  url: https://www.sandiego.edu/business
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
