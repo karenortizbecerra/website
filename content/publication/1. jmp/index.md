@@ -1,5 +1,5 @@
 ---
-title: "Land Consolidation and Rural Labor Markets: Theory and Evidence from Colombia"
+title: "Large-Farm Consolidation and Structural Transformation: Theory and Evidence from Colombia"
 
 
 # Authors
