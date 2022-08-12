@@ -38,7 +38,7 @@ suitability but different ability to produce at scale due to topographic feature
 ployment rates over the medium term. These findings shed light on the implications of structural change within rural economies and the potential distributional impacts of consolidation across producers and workers."
 
 # Summary. An optional shortened abstract.
-summary:  __Job Market Paper__ _(New Draft Coming Soon)._ <br />I study the implications of land consolidation on the structural transformation of rural economies. Theoretical and empirical results suggest that consolidation might lead to a shift of labor out of agriculture along with a reduction in workers' income.
+summary:  _(New Draft Coming Soon)._ <br />I study the implications of land consolidation on the structural transformation of rural economies. Theoretical and empirical results suggest that consolidation might lead to a shift of labor out of agriculture along with a reduction in workers' income.
 
 
 
