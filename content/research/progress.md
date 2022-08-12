@@ -31,6 +31,12 @@ design:
 
 ---
 
+__Large-Farm Consolidation and Welfare in Rural Economies__<br />
+_Status: Data Analysis_<br />
+The consolidation of farmland is accelerating in many developing countries. I evaluate the effects of large-farm consolidation on rural welfare using a quantitative model where the distribution of farms affects the demand for workers in the agricultural and nonagricultural sectors. Farm labor intensity depends on the scale of operation, while
+nonfarm employment is swayed by non-homothetic consumption growth. This model is consistent with the impacts of consolidation on rural employment over the nineties in Colombia. Preliminary findings show that large-farm consolidation increases agricultural profit but reduces the income of rural workers, a large majority of the agents in the economy. As
+a result, aggregate welfare declines despite gains in agricultural productivity. These welfare effects vary by type of consolidation and are exacerbated when the rise of large operations is driven by merging the smallest farms.
+
 __Forced Displacement and Early Nutritional Development__ <br />
 _Status: Data Analysis_<br />
 Forced displacement is one of the main development challenges in developing countries. Of the 82.4 million forcibly displaced people worldwide,  86\%  are hosted in low and middle-income countries (UNHCR, 2020). The goal of this paper is to estimate the impact of internal displacement on early nutrition and health. Using a rich dataset of households displaced during the conflict in Colombia, I compare siblings born before and after the forced migration took place. This analysis will shed light on the effects of forced migration on the accumulation of human capital and its implications for public policies targeted at displaced children. 

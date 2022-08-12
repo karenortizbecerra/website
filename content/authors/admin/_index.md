@@ -6,12 +6,12 @@ title: Karen Ortiz-Becerra
 superuser: true
 
 # Role/position/tagline
-role: PhD in Agricultural and Resource Economics
+role: Assistant Professor of Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of California, Davis
-  url: https://www.ucdavis.edu/
+- name: University of San Diego
+  url: sandiego.edu/business
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -71,11 +71,9 @@ email: ""
 highlight_name: false
 ---
 
-I am an applied economist working in the fields of development economics and applied econometrics. I use theory and quantitative methods to study the implications of agricultural development and policy programs on aggregate welfare in local economies. In a second line of work, I examine questions related to the econometrics of impact evaluation with a special focus on attrition and internal validity. 
+I am an applied economist working in the fields of development economics and applied econometrics. My primary research examines the implications of agricultural development and technical change on the welfare and structural transformation of local economies.  
 
-Prior to my doctoral studies, I was a research analyst at The World Bank and The Inter-American Development Bank in Washington D.C.
-
-I will be joining the Economics Department at the University of San Diego as an Assistant Professor in August 2022.
+In a complementary line of work, I study questions on the econometrics of impact evaluation, with an emphasis on attrition and the internal validity of treatment effect studies.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/papers/KarenOrtizBecerra_CV.pdf" "newtab" >}}CV{{< /staticref >}}.

@@ -31,10 +31,11 @@ publication_types: []
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
 
-abstract: "We approach attrition in field experiments with baseline data as an identification problem in a panel model. A systematic review of the literature indicates that there is no consensus on how to test for attrition bias. We establish identifying assumptions for treatment effects for both the respondent subpopulation and the study population. We propose randomization and regression-based procedures to test their sharp implications. We then relate our proposed tests to current empirical practice, and demonstrate that the most commonly used test can over-reject internal validity. Simulations and applications further support the relevance of our analysis."
+abstract: "We approach attrition in field experiments with baseline data as an identification problem in a panel model. A systematic review of the literature indicates that there is no consensus on how to test for attrition bias. We establish identifying assumptions for treatment effects for both the respondent subpopulation and the study population, and
+propose procedures to test their sharp implications. We then relate our proposed tests to current empirical practice, and demonstrate that the most commonly used test in the literature is not a test of internal validity in general. We illustrate the relevance of our analysis using several empirical applications."
 
 # Summary. An optional shortened abstract.
-summary:  __Revise and Resubmit:__ _Journal of Human Resources._ <br />A systematic review of the field experiment literature indicates that there is no consensus on how to test for attrition bias. We establish identifying assumptions for treatment effects and propose procedures to tests their sharp implications. Simulations and applications support the empirical relevance of our analysis.
+summary:  __Revise and Resubmit:__ _Journal of Human Resources._ <br />A systematic review of the field experiment literature indicates that there is no consensus on how to test for attrition bias. We establish identifying assumptions for treatment effects and propose procedures to tests their sharp implications. Several applications support the empirical relevance of our analysis.
 
 
 
@@ -51,7 +52,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://escholarship.org/uc/item/4ck087v3'
+url_pdf: '/files/papers/GhanemHirshleiferOrtiz_202208.pdf'
 url_code: 'https://github.com/daghanem/ATTRITIONTESTS'
 url_dataset: ''
 url_poster: ''
