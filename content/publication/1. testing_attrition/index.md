@@ -1,5 +1,5 @@
 ---
-title: "Correcting Attrition Bias via Changes-in-Changes"
+title: "Testing Attrition Bias in Field Experiments"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -7,7 +7,6 @@ title: "Correcting Attrition Bias via Changes-in-Changes"
 authors:
 - Dalia Ghanem
 - Sarojini Hirshleifer
-- Désiré Kédagni
 - admin
 
 
@@ -16,7 +15,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2021-07-03T00:00:00Z"
+date: "2021-07-02T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -32,21 +31,22 @@ publication_types: []
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
 
-abstract: "Attrition is a common and potentially important threat to internal validity in treatment effect
-studies. We extend the changes-in-changes approach to identify the average treatment effect for
-respondents and the entire study population in the presence of attrition. Our method can be applied
-to randomized experiments as well as difference-in-difference designs. A simulation experiment
-points to the advantages of this approach relative to one of the most commonly used approaches
-in the literature, inverse probability weighting. Those advantages are further illustrated with an
-application to a large-scale randomized experiment."
+abstract: "We approach attrition in field experiments with baseline data as an identification problem in a panel model. A systematic review of the literature indicates that there is no
+consensus on how to test for attrition bias. We establish identifying assumptions for
+treatment effects for both the respondent subpopulation and the study population, and
+propose procedures to test their sharp implications. We then relate our proposed tests
+to current empirical practice, and demonstrate that the most commonly used test in
+the literature is not a test of internal validity in general. We illustrate the relevance of
+our analysis using several empirical applications."
 
 # Summary. An optional shortened abstract.
-summary: __Revise and Resubmit:__ _Journal of Econometrics._  <br />Attrition is an important threat to internal validity in treatment effect studies.  We extend the changes-in-changes approach to identify the treatment effect in the presence of attrition.  Our method can be applied in randomized experiments as well as difference-in-difference designs.
+summary:  __Accepted:__ _Journal of Human Resources._ <br />A systematic review of the field experiment literature indicates that there is no consensus on how to test for attrition bias. We establish identifying assumptions for treatment effects and propose procedures to tests their sharp implications. Several applications support the empirical relevance of our analysis.
 
 
 
 tags:
-- non-response 
+- non-response
+- field experiments
 - internal validity
 
 # Display this page in the Featured widget?
@@ -57,8 +57,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2203.12740'
-url_code: ''
+url_pdf: 'https://escholarship.org/uc/item/4ck087v3'
+url_code: 'https://ideas.repec.org/c/boc/bocode/s459125.html'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -91,6 +91,6 @@ image:
 ---
 
 
-__Revise and Resubmit:__ _Journal of Econometrics._
+__Accepted:__ _Journal of Human Resources._
 
 

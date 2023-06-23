@@ -1,5 +1,5 @@
 ---
-title: "Testing Attrition Bias in Field Experiments"
+title: "Correcting Attrition Bias via Changes-in-Changes"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -7,6 +7,7 @@ title: "Testing Attrition Bias in Field Experiments"
 authors:
 - Dalia Ghanem
 - Sarojini Hirshleifer
+- Désiré Kédagni
 - admin
 
 
@@ -15,7 +16,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2021-07-02T00:00:00Z"
+date: "2021-07-03T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -31,17 +32,24 @@ publication_types: []
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
 
-abstract: "We approach attrition in field experiments with baseline data as an identification problem in a panel model. A systematic review of the literature indicates that there is no consensus on how to test for attrition bias. We establish identifying assumptions for treatment effects for both the respondent subpopulation and the study population, and
-propose procedures to test their sharp implications. We then relate our proposed tests to current empirical practice, and demonstrate that the most commonly used test in the literature is not a test of internal validity in general. We illustrate the relevance of our analysis using several empirical applications."
+abstract: "Attrition is a common and potentially important threat to internal validity in treatment effect
+studies. We extend the changes-in-changes approach to identify the average treatment effect for
+respondents and the entire study population in the presence of attrition. Our method, which exploits
+baseline outcome data, can be applied to randomized experiments as well as quasi-experimental
+difference-in-difference designs. A formal comparison highlights that while widely used corrections
+typically impose restrictions on whether or how response depends on treatment, our proposed
+attrition correction exploits restrictions on the outcome model. We further show that the conditions
+required for our correction can accommodate a broad class of response models that depend on
+treatment in an arbitrary way. We illustrate the implementation of the proposed corrections in an
+application to a large-scale randomized experiment."
 
 # Summary. An optional shortened abstract.
-summary:  __Revise and Resubmit:__ _Journal of Human Resources._ <br />A systematic review of the field experiment literature indicates that there is no consensus on how to test for attrition bias. We establish identifying assumptions for treatment effects and propose procedures to tests their sharp implications. Several applications support the empirical relevance of our analysis.
+summary: __Resubmitted:__ _Journal of Econometrics._  <br />Attrition is an important threat to internal validity in treatment effect studies.  We extend the changes-in-changes approach to identify the treatment effect in the presence of attrition.  Our method can be applied in randomized experiments as well as difference-in-difference designs.
 
 
 
 tags:
-- non-response
-- field experiments
+- non-response 
 - internal validity
 
 # Display this page in the Featured widget?
@@ -52,8 +60,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '/files/papers/GhanemHirshleiferOrtiz_202208.pdf'
-url_code: 'https://github.com/daghanem/ATTRITIONTESTS'
+url_pdf: 'https://arxiv.org/abs/2203.12740'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -86,6 +94,6 @@ image:
 ---
 
 
-__Revise and Resubmit:__ _Journal of Human Resources._
+__Resubmitted:__ _Journal of Econometrics._
 
 

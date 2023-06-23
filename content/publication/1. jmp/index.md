@@ -89,6 +89,6 @@ image:
 ---
 
 
-__Job Market Paper__ _(New Draft Coming Soon)_
+_(New Draft Coming Soon)_
 
 
