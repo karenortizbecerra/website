@@ -10,7 +10,7 @@ headless: true
 weight: 1
 
 # Section title
-title: WORKING PAPERS
+title: Publications
 
 
 # Section subtitle
