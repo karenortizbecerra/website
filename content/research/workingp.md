@@ -32,7 +32,7 @@ design:
 ---
 
 __Correcting Attrition Bias via Changes-in-Changes__ (with Dalia Ghanem, Sarojini Hirshleifer, and Désiré Kédagni)<br />
-__Resubmitted:__ _Journal of Econometrics._<br />
+__Revision submitted:__ _Journal of Econometrics._<br />
 Attrition is a common and potentially important threat to internal validity in treatment effect
 studies. We extend the changes-in-changes approach to identify the average treatment effect for
 respondents and the entire study population in the presence of attrition. Our method, which exploits
